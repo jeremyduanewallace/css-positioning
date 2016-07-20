@@ -8,4 +8,25 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   margin: 0;
+  background: linear-gradient();
+}
+
+.col{
+	float: lef;
+    border: 1px solid red;
+	background-color: white;
+	width: 500px;
+	margin-left: 20px;
+}
+#button{
+	float: right;
+	margin-top: 35px;
+	margin-left: 0px;
+	margin-right: 35px;
+	border: 1px solid blue;
+} 
+
+li{
+	list-style: none;
+	display: inline-block;
 }
